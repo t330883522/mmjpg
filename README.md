@@ -1,3 +1,5 @@
+# 使用request时要加上headers，避免图片重定向
+
 # 美女写真套图爬虫（一）
 
 ### 传送门：[美女写真套图爬虫（二）](https://github.com/chenjiandongx/mzitu)  
